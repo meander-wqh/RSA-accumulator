@@ -1,0 +1,1 @@
+g++ -g -o main main.cpp BigInteger.cpp Crypto_Primitives.cpp MultisetAccumulator.cpp -lssl -lcrypto
